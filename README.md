@@ -18,6 +18,6 @@
 - **AI Tools**: ChatGPT, GitHub Copilot  
 
 ### 📫 Let's Connect
-- Portfolio: *Coming soon*
+- Portfolio: https://ashish-leo.netlify.app/
 - Mobile No: +91-8130120840
 - Email: ashishleo12@gmail.com
